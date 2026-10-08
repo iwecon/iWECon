@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![iWe's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iWECon&layout=compact&show_icons=true&count_private=true)
+![iWe's top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=iWECon&layout=compact&show_icons=true&count_private=true)
 
-![iWe's github stats](https://github-readme-stats.vercel.app/api?username=iWECon&count_private=true&show_icons=true)
+![iWe's github stats](https://github-stats-extended.vercel.app/api?username=iWECon&count_private=true&show_icons=true)
